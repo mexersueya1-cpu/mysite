@@ -1,0 +1,26 @@
+index.html
+html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+</head>
+<body>
+  <h1>Olá, seja bem-vindo!</h1>
+  <p>Estou criando meu site no celular usando QuickEdit e ZArchiver.</p>
+</body>
+</html>Você pode começar escrevendo algo simples e direto, por exemplo:
+
+```html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Primeiro Site</title>
+</head>
+<body>
+  <h1>Olá, seja bem-vindo!</h1>
+  <p>Estou criando meu site no celular usando QuickEdit e ZArchiver.</p>
+</body>
+</html>
